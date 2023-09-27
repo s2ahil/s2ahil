@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahil Pradhan currently in 2nd year of  iiit Naya Raipur college, my branch is data science with artificial intelligence
-- 🏢 I mainly work with React Express and Mongodb as a full-stack developer 
+- 🏢 I mainly work with **React Express and Mongodb** as a full-stack developer 
 - 👀 I’m interested in web development android development and  machine learning.
 - 🌱 I’m currently learning web development and android development (Flutter).
 - 💞️ I’m looking to collaborate for competitions so that we can collaborate and grow together.
