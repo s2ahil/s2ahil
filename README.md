@@ -2,7 +2,7 @@
 Hi I'm Sahil Pradhan a final year undergrad at IIIT NAYA RAIPUR, Im a full-stack web developer with techs like React Express and next js.<br><br>I'm looking forward for opportunities  and I am very much passionate about participating in the hackathon do contact me if wanna collaborate.
 
 - 📫 How to reach me - my email sahilpradhan411@gmail.com
-- 🧑‍🏫  portfolio - https://react-portfolio-delta-seven.vercel.app/
+- 🧑‍🏫  portfolio - [https://sahil-new-portfolio.vercel.app/]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-pradhan-46a0a31b7/) 
